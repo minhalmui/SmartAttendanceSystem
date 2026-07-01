@@ -17,6 +17,7 @@ A Java-based Smart Attendance System developed using Java Swing and SQLite.
 
 ## Demo Login
 Username: teacher
+
 Password: 1234
 
 ## Project Structure
